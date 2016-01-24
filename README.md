@@ -1,6 +1,7 @@
 samplePic.sh
 
 Author: Fred Fury
+
 Requires the ImageMagick.
 
 Generates a montage image of all the files.
